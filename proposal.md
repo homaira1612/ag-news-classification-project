@@ -38,3 +38,10 @@ on this task, and which categories are hardest for it to separate?
 4. Train with an 80/10/10 train/validation/test split and early stopping.
 5. Evaluate with accuracy, a classification report, and a confusion matrix,
    then analyze which classes are most often confused and why.
+
+## Success Criteria
+The project will be considered successful if the trained ANN achieves at
+least 85% test accuracy — comfortably above the 25% random-guess baseline
+for four balanced classes — and if the analysis section can clearly explain
+at least one systematic source of misclassification (e.g. class overlap in
+vocabulary) rather than treating errors as unexplained noise.
