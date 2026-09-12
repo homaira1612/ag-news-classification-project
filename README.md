@@ -8,4 +8,5 @@ This project explores whether headline and short-description text alone is
 enough for a lightweight ANN to reliably categorize news articles.
 
 ## Status
-Status: model built and trained; results and analysis in progress on the `proposal` branch.
+Status: proposal finalized and merged into main; model training and evaluation results to follow.
+
