@@ -8,4 +8,4 @@ This project explores whether headline and short-description text alone is
 enough for a lightweight ANN to reliably categorize news articles.
 
 ## Status
-In progress — see `proposal.md` on the `proposal` branch for research details.
+Status: proposal drafted and finalized on the `proposal` branch, pending merge review on main.
